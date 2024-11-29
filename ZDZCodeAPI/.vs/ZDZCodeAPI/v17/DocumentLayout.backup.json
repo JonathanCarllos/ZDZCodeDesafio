@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|c:\\users\\jonat\\onedrive\\\u00E1rea de trabalho\\zdzcode\\zdzcodeapi\\zdzcodeapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|solutionrelative:zdzcodeapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|c:\\users\\jonat\\onedrive\\\u00E1rea de trabalho\\zdzcode\\zdzcodeapi\\zdzcodeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|solutionrelative:zdzcodeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|c:\\users\\jonat\\onedrive\\\u00E1rea de trabalho\\zdzcode\\zdzcodeapi\\zdzcodeapi\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|solutionrelative:zdzcodeapi\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|c:\\users\\jonat\\onedrive\\\u00E1rea de trabalho\\zdzcode\\zdzcodeapi\\zdzcodeapi\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|solutionrelative:zdzcodeapi\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|c:\\users\\jonat\\onedrive\\\u00E1rea de trabalho\\zdzcode\\zdzcodeapi\\zdzcodeapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|solutionrelative:zdzcodeapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|c:\\users\\jonat\\onedrive\\\u00E1rea de trabalho\\zdzcode\\zdzcodeapi\\zdzcodeapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|solutionrelative:zdzcodeapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|c:\\users\\jonat\\onedrive\\\u00E1rea de trabalho\\zdzcode\\zdzcodeapi\\zdzcodeapi\\repository\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|solutionrelative:zdzcodeapi\\repository\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 356,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Repository\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "ZDZCodeAPI\\Repository\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Repository\\CategoriaRepository.cs",
+              "RelativeToolTip": "ZDZCodeAPI\\Repository\\CategoriaRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA3wDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:24:57.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ZDZCodeAPI\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Models\\Categoria.cs",
+              "RelativeToolTip": "ZDZCodeAPI\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:31:13.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ZDZCodeAPI\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Models\\Produto.cs",
+              "RelativeToolTip": "ZDZCodeAPI\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:30:44.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ZDZCodeAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Program.cs",
+              "RelativeToolTip": "ZDZCodeAPI\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:29:29.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ZDZCodeAPI\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ZDZCodeAPI\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwE8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:21:23.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "ZDZCodeAPI\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "ZDZCodeAPI\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:15:50.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Repository\\Interfaces\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ZDZCodeAPI\\Repository\\Interfaces\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\jonat\\OneDrive\\\u00C1rea de Trabalho\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Repository\\Interfaces\\IProdutoRepository.cs",
+              "RelativeToolTip": "ZDZCodeAPI\\Repository\\Interfaces\\IProdutoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:56:35.416Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

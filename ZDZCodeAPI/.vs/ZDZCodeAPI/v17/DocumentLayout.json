@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wallefy Carlos\\Desktop\\ZDZCODE\\ZDZCodeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|c:\\users\\wallefy carlos\\desktop\\zdzcode\\zdzcodeapi\\zdzcodeapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|solutionrelative:zdzcodeapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|c:\\users\\wallefy carlos\\desktop\\zdzcode\\zdzcodeapi\\zdzcodeapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|solutionrelative:zdzcodeapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|c:\\users\\wallefy carlos\\desktop\\zdzcode\\zdzcodeapi\\zdzcodeapi\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|solutionrelative:zdzcodeapi\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|c:\\users\\wallefy carlos\\desktop\\zdzcode\\zdzcodeapi\\zdzcodeapi\\repository\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|solutionrelative:zdzcodeapi\\repository\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|c:\\users\\wallefy carlos\\desktop\\zdzcode\\zdzcodeapi\\zdzcodeapi\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585ECDDF-F056-4BCA-8AE8-367A17835622}|ZDZCodeAPI\\ZDZCodeAPI.csproj|solutionrelative:zdzcodeapi\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 356,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Wallefy Carlos\\Desktop\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Repository\\Interfaces\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ZDZCodeAPI\\Repository\\Interfaces\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\Wallefy Carlos\\Desktop\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Repository\\Interfaces\\IProdutoRepository.cs",
+              "RelativeToolTip": "ZDZCodeAPI\\Repository\\Interfaces\\IProdutoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:32:28.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Wallefy Carlos\\Desktop\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Repository\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "ZDZCodeAPI\\Repository\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\Wallefy Carlos\\Desktop\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Repository\\CategoriaRepository.cs",
+              "RelativeToolTip": "ZDZCodeAPI\\Repository\\CategoriaRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwC0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:46:23.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Wallefy Carlos\\Desktop\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ZDZCodeAPI\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Wallefy Carlos\\Desktop\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Models\\Produto.cs",
+              "RelativeToolTip": "ZDZCodeAPI\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:43:03.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Wallefy Carlos\\Desktop\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Repository\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ZDZCodeAPI\\Repository\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\Wallefy Carlos\\Desktop\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Repository\\ProdutoRepository.cs",
+              "RelativeToolTip": "ZDZCodeAPI\\Repository\\ProdutoRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:11:50.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Wallefy Carlos\\Desktop\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "ZDZCodeAPI\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Wallefy Carlos\\Desktop\\ZDZCODE\\ZDZCodeAPI\\ZDZCodeAPI\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "ZDZCodeAPI\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAUwDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:15:27.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
